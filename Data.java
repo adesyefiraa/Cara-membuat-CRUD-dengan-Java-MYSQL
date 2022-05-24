@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author diana
+ * @author Ade Syefira Rizky
  */
 public class Data extends javax.swing.JFrame {
  Connection konek;
